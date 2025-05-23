@@ -1,2 +1,6 @@
-# Arsenic-v3
-The famous arsenic proxy (I didn't make this) with an INFINITE LINK DISPENSER!! (I made it!)
+***Arsenic-v3***
+Just go to 
+```
+https://kozow-25.lovable.app/
+```
+YES!!!!!
